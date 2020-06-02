@@ -1,0 +1,20 @@
+INSTALACJA LINUXA
+
+przed instalacją należy pobrać plik ISO z oficjalnej strony ( https://ubuntu.com/download)
+
+Konfiguracja maszyny wirtualnej:
+1) Odpal virtualbox i naciśnij "new".
+2) Nadaj nazwę swojemu nowemu "komputerowi", wybierz machine folder, typ i wersję nowego systemu (np Linux i Ubuntu)
+3) Wybierz ilość pamięci RAM, z której będzie mógł korzystać nowy system (np. 2 GB)
+4)Tworzymy wirtualny dysk twardy i wybieramy sposób przydzielania pamięci (dynamiczny czy stały) + jeżeli dynamiczny, to wybieramy maksymalną wielkość
+5)Teraz możemy otworzyć ustawienia maszyny wirtualnej i np. podłączyć kartę sieciową
+
+Instalacja:
+1) Po wybraniu odpowiedniej maszyny wirtualnej w virtualboxie naciskamy "start"
+2) Wybieramy dysk, na którym mamy system (plik iso)
+3) Wybieramy język systemu i "zainstaluj ubuntu"
+4) Wybieramy układ klawiatury i przechodzimy dalej
+5) Ustalamy, czy chcemy instalować pełen pakiet ubuntu, czy podstawowy ( wystarczy podstawowy z przeglądarką) oraz czy chcemy dodatkowe aktualizacje od razu
+6) Wybieramy na mapce lokalizację
+7) Podajemy dane użytkownika, wybieramy login i hasło
+8) Czekamy aż proces instalacji się zakończy i voila! gotowe
