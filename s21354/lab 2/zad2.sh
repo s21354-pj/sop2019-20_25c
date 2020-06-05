@@ -1,0 +1,6 @@
+#!/bin/bash
+
+X=tekst
+echo $X
+bash
+echo $X
